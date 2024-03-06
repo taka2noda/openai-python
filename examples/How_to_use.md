@@ -1,14 +1,15 @@
-## How to use
+# How to use
 
-# Guide
+## Guide
 https://docs.datadoghq.com/integrations/openai/?tab=python 
 
-# Example Application (Here)
+## Example Application (Here)
 https://github.com/taka2noda/openai-python/tree/main/examples
 
-# Tested on EC2(Ubuntu 22.04.3 LTS (GNU/Linux 6.2.0-1017-aws x86_64))
+## Tested on 
+EC2(Ubuntu 22.04.3 LTS (GNU/Linux 6.2.0-1017-aws x86_64))
 
-# Commands
+## Commands
 Install Datadog Agent.
 $ DD_API_KEY="YOUR_DATADOGAPI_KEY" DD_SITE="datadoghq.com"  bash -c "$(curl -L https://s3.amazonaws.com/dd-agent/scripts/install_script_agent7.sh)"
 
