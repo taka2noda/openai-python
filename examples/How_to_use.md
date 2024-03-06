@@ -1,13 +1,21 @@
 # How to use
 
-## Guide
-https://docs.datadoghq.com/integrations/openai/?tab=python 
-
+## Docs
+- OpenAI Account Integration: https://docs.datadoghq.com/integrations/openai/?tab=apikey
+  
+  Start here first. Just follow the guide.
+  
+- Python Application Trace: https://docs.datadoghq.com/integrations/openai/?tab=python
+  
+  This document's topic.
+  
 ## Example Application (Here)
-https://github.com/taka2noda/openai-python/tree/main/examples
+- Forked from official example and changed model to make it cheaper and cause error.
+
+  https://github.com/taka2noda/openai-python/tree/main/examples
 
 ## Tested on 
-EC2(Ubuntu 22.04.3 LTS (GNU/Linux 6.2.0-1017-aws x86_64))
+- EC2(Ubuntu 22.04.3 LTS (GNU/Linux 6.2.0-1017-aws x86_64))
 
 ## Commands
 Install Datadog Agent.
