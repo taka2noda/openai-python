@@ -19,22 +19,15 @@ $ DD_API_KEY="YOUR_DATADOGAPI_KEY" DD_SITE="datadoghq.com"  bash -c "$(curl -L h
 Install python and openai library.
 ```
 $ sudo apt update
-
 $ sudo apt install python3
-
 $ sudo apt install python3-pip
-
 $ pip install openai
 ```
 Enable StatsD in your Datadog Agent.
 ```
 $ sed -i 's/# dogstatsd_stats_enable: false/dogstatsd_stats_enable: true/g' datadog.yaml
-
 $ sudo service datadog-agent restart
-
 $ sudo datadog-agent status
-
-$ sudo more /etc/datadog-agent/datadog.yaml | grep -n "# process_config"
 ```
 Install the Datadog APM Python library.
 ```
@@ -47,11 +40,8 @@ $ git clone https://github.com/taka2noda/openai-python.git
 Excute Pre
 ```
 $ cd /openai-python/examples
-
 $ export OPENAI_API_KEY="YOUR_OPENAPI_KEY"
-
 $ export DD_API_KEY="YOUR_DATADOGAPI_KEY"
-
 $ cd openai-python/examples
 ```
 Excute1. Simple
@@ -67,3 +57,13 @@ Excute3. Call Dall-e model
 $ DD_SERVICE="taka2-openai-picture" DD_ENV="dev" DD_OPENAI_LOGS_ENABLED="true" DD_OPENAI_LOG_PROMPT_COMPLETION_SAMPLE_RATE="1.0" ddtrace-run python3 picture.py
 ```
 No use others because expensive
+
+## Outcome
+![Screenshot 2024-03-06 at 22 37 55](https://github.com/taka2noda/openai-python/assets/93112551/dcdd4d18-2a3d-40a0-948e-98331f1ac601)
+![Screenshot 2024-03-06 at 22 10 30](https://github.com/taka2noda/openai-python/assets/93112551/405b76b4-bd9c-48ea-aa43-82fe32bab3f3)
+![Screenshot 2024-03-06 at 22 10 39](https://github.com/taka2noda/openai-python/assets/93112551/c4d74e20-19cc-4afe-b705-637aec775e41)
+![Screenshot 2024-03-06 at 22 10 58](https://github.com/taka2noda/openai-python/assets/93112551/f1c654ef-c123-486f-93e4-855ab1f3e55e)
+
+
+
+
