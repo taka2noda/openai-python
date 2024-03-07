@@ -66,14 +66,16 @@ $ DD_SERVICE="taka2-openai-picture" DD_ENV="dev" DD_OPENAI_LOGS_ENABLED="true" D
 No use others because expensive
 
 ## Outcome
-![Screenshot 2024-03-06 at 22 37 55](https://github.com/taka2noda/openai-python/assets/93112551/dcdd4d18-2a3d-40a0-948e-98331f1ac601)
-![Screenshot 2024-03-06 at 22 10 30](https://github.com/taka2noda/openai-python/assets/93112551/405b76b4-bd9c-48ea-aa43-82fe32bab3f3)
-![Screenshot 2024-03-06 at 22 10 39](https://github.com/taka2noda/openai-python/assets/93112551/c4d74e20-19cc-4afe-b705-637aec775e41)
-![Screenshot 2024-03-06 at 22 10 58](https://github.com/taka2noda/openai-python/assets/93112551/f1c654ef-c123-486f-93e4-855ab1f3e55e)
-![Screenshot 2024-03-07 at 0 28 26](https://github.com/taka2noda/openai-python/assets/93112551/2a14a612-c240-45fd-84af-fac5bf23b4a5)
-![Screenshot 2024-03-07 at 0 28 45](https://github.com/taka2noda/openai-python/assets/93112551/822ed5f9-2308-4cf9-831d-2a2cd6e49d56)
-![Screenshot 2024-03-07 at 0 29 00](https://github.com/taka2noda/openai-python/assets/93112551/7aef9e73-cba4-4825-af07-46b83b4971e7)
-![Screenshot 2024-03-07 at 0 29 24](https://github.com/taka2noda/openai-python/assets/93112551/a5cfc7ae-e96a-4938-9268-4a54a6fe2408)
+![Screenshot 2024-03-07 at 23 51 35](https://github.com/taka2noda/openai-python/assets/93112551/018d5118-4702-4a91-8dc8-e1ac8cd1f1d3)
+![Screenshot 2024-03-07 at 23 52 15](https://github.com/taka2noda/openai-python/assets/93112551/435afdf8-f0ef-42f4-bc61-2b26766ff9a7)
+![Screenshot 2024-03-07 at 23 52 56](https://github.com/taka2noda/openai-python/assets/93112551/46a49f1d-3591-4c04-93bc-54d8b3f95b6d)
+![Screenshot 2024-03-07 at 0 28 26](https://github.com/taka2noda/openai-python/assets/93112551/785938fa-b04b-415a-9865-a9e247f91331)
+![Screenshot 2024-03-07 at 0 28 45](https://github.com/taka2noda/openai-python/assets/93112551/9f723a2d-f14e-4585-a2ba-5bbf5181a31c)
+![Screenshot 2024-03-07 at 23 27 47](https://github.com/taka2noda/openai-python/assets/93112551/78f83906-4e1c-4375-8837-ef19770dc347)
+![Screenshot 2024-03-07 at 23 27 27](https://github.com/taka2noda/openai-python/assets/93112551/20d7a823-73ba-4f71-84a1-1bf2b484ac8e)
+![Screenshot 2024-03-07 at 23 27 16](https://github.com/taka2noda/openai-python/assets/93112551/3eddb80a-c92e-455b-82c9-6e5aa8b42fe3)
+![Screenshot 2024-03-06 at 22 10 58](https://github.com/taka2noda/openai-python/assets/93112551/b57efb4f-eb23-4536-8ef7-924afa3a081b)
+
 
 
 
