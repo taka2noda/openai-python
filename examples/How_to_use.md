@@ -70,6 +70,14 @@ No use others because expensive
 ![Screenshot 2024-03-06 at 22 10 30](https://github.com/taka2noda/openai-python/assets/93112551/405b76b4-bd9c-48ea-aa43-82fe32bab3f3)
 ![Screenshot 2024-03-06 at 22 10 39](https://github.com/taka2noda/openai-python/assets/93112551/c4d74e20-19cc-4afe-b705-637aec775e41)
 ![Screenshot 2024-03-06 at 22 10 58](https://github.com/taka2noda/openai-python/assets/93112551/f1c654ef-c123-486f-93e4-855ab1f3e55e)
+![Screenshot 2024-03-07 at 0 28 26](https://github.com/taka2noda/openai-python/assets/93112551/2a14a612-c240-45fd-84af-fac5bf23b4a5)
+![Screenshot 2024-03-07 at 0 28 45](https://github.com/taka2noda/openai-python/assets/93112551/822ed5f9-2308-4cf9-831d-2a2cd6e49d56)
+![Screenshot 2024-03-07 at 0 29 00](https://github.com/taka2noda/openai-python/assets/93112551/7aef9e73-cba4-4825-af07-46b83b4971e7)
+![Screenshot 2024-03-07 at 0 29 24](https://github.com/taka2noda/openai-python/assets/93112551/a5cfc7ae-e96a-4938-9268-4a54a6fe2408)
+
+
+
+
 
 
 
