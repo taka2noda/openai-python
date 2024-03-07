@@ -33,7 +33,8 @@ $ pip install openai
 ```
 Enable StatsD in your Datadog Agent.
 ```
-$ sed -i 's/# dogstatsd_stats_enable: false/dogstatsd_stats_enable: true/g' datadog.yaml
+$ sudo more /etc/datadog-agent/datadog.yaml | grep -n "# process_config"
+$ sed -i 's/# dogstatsd_stats_enable: false/dogstatsd_stats_enable: true/g' /etc/datadog-agent/datadog.yaml
 $ sudo service datadog-agent restart
 $ sudo datadog-agent status
 ```
