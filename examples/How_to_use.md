@@ -1,6 +1,6 @@
 # How to use
 
-## Docs
+## Datadog Docs
 - OpenAI Account Integration: https://docs.datadoghq.com/integrations/openai/?tab=apikey
   
   Start here first. Just follow the guide.
@@ -9,7 +9,7 @@
   
   This document's topic.
   
-## Example Application (Here)
+## Example OpenAI Application (Here)
 - Forked from official example and changed model to make it cheaper and cause error.
 
   https://github.com/taka2noda/openai-python/tree/main/examples
