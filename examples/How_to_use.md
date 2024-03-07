@@ -41,26 +41,25 @@ Install the Datadog APM Python library.
 ```
 $ pip install ddtrace
 ```
-Clone Sample Application Repo
+Clone Sample Application Repo.
 ```
 $ git clone https://github.com/taka2noda/openai-python.git
 ```
-Excute Pre
+Define environment variables.
 ```
-$ cd /openai-python/examples
 $ export OPENAI_API_KEY="YOUR_OPENAPI_KEY"
 $ export DD_API_KEY="YOUR_DATADOGAPI_KEY"
 $ cd openai-python/examples
 ```
-Excute1. Simple
+Execute 1. Simple
 ```
 $ DD_SERVICE="taka2-openai-demo" DD_ENV="dev" DD_OPENAI_LOGS_ENABLED="true" DD_OPENAI_LOG_PROMPT_COMPLETION_SAMPLE_RATE="1.0" ddtrace-run python3 demo-gpt-35.py
 ```
-Excute2. Error
+Execute 2. Error
 ```
 $ DD_SERVICE="taka2-openai-demo" DD_ENV="dev" DD_OPENAI_LOGS_ENABLED="true" DD_OPENAI_LOG_PROMPT_COMPLETION_SAMPLE_RATE="1.0" ddtrace-run python3 demo-error.py
 ```
-Excute3. Call Dall-e model
+Execute 3. Call Dall-e model
 ```
 $ DD_SERVICE="taka2-openai-picture" DD_ENV="dev" DD_OPENAI_LOGS_ENABLED="true" DD_OPENAI_LOG_PROMPT_COMPLETION_SAMPLE_RATE="1.0" ddtrace-run python3 picture.py
 ```
